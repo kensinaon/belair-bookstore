@@ -1,0 +1,29 @@
+.center {
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  img {
+    width: 40%;
+    height: 4%;
+  }
+  ul {
+    text-align: center;
+    list-style-type: none;
+  }
+
+    body{
+    text-shadow: #cccccc;
+   }
+
+   .kens{
+    background-image: url(./assets/bgpink.jpg);
+    background-size: cover;
+   }
+
+   h1, h2, h3, p, li{
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+  }
